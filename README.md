@@ -1,19 +1,19 @@
 <h1 align="center">Hi 👋, I'm Shakil Kathat</h1>
-<h3 align="center">A passionate MERN stack developer from India</h3>
+<h3 align="center">A passionate  frontend developer and Aspiring Data Science from India</h3>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=itz-shakil-92&label=Profile%20views&color=0e75b6&style=flat" alt="itz-shakil-92" /> </p>
 
 <p align="left"> <a href="https://twitter.com/iamshakilkathat" target="blank"><img src="https://img.shields.io/twitter/follow/iamshakilkathat?logo=twitter&style=for-the-badge" alt="iamshakilkathat" /></a> </p>
 
-- 🔭 I’m currently working on **Netflix Web Clone**
+- 🔭 I’m currently working on **Machine Learning**
 
-- 🌱 I’m currently learning **React,Machine Learning**
+- 🌱 I’m currently learning **Machine Learning and Data Science**
 
 - 👯 I’m looking to collaborate on **Frontend Stack Web Project and Machine Learning Project**
 
 - 👨‍💻 All of my projects are available at [https://github.com/itz-shakil-92](https://github.com/itz-shakil-92)
 
-- 💬 Ask me about **react,**
+- 💬 Ask me about ****
 
 - 📫 How to reach me **shakilkathat5603@gmail.com**
 

@@ -4,10 +4,10 @@
   <a href="https://www.linkedin.com/in/shakilkathat92/">
     <img src="https://img.shields.io/badge/LinkedIn-blue?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn Badge"/>
   </a>
-  <a href="[your-youtube-URL](https://www.instagram.com/__s_h_a_k_i_l__k_a_t_h_a_t__92/)">
+  <a href="https://www.instagram.com/__s_h_a_k_i_l__k_a_t_h_a_t__92/">
     <img src="https://img.shields.io/badge/Instagram-red?style=for-the-badge&logo=instagram&logoColor=white" alt="Instagram Badge"/>
   </a>
-  <a href="https://twitter.com/i/flow/login?redirect_after_login=%2Fiamshakilkathat">
+  <a href="https://twitter.com/iamshakilkathat">
     <img src="https://img.shields.io/badge/Twitter-blue?style=for-the-badge&logo=twitter&logoColor=white" alt="Twitter Badge"/>
   </a>
 </div>

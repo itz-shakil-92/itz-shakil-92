@@ -33,13 +33,15 @@
 
 ### 📞 Connect with me :
 
-<a href="https://twitter.com/iamshakilkathat" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="iamshakilkathat" height="30" width="40" /></a>
-<a href="https://linkedin.com/in/shakilkathat92" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="shakil kathat" height="30" width="40" /></a>
-<a href="https://fb.com/shakil kathat" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/facebook.svg" alt="shakil kathat" height="30" width="40" /></a>
-<a href="https://instagram.com/__s_h_a_k_i_l__k_a_t_h_a_t__92" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="__s_h_a_k_i_l__k_a_t_h_a_t__92" height="30" width="40" /></a>
-<a href="https://www.codechef.com/users/shakilkathat92" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.1.0/icons/codechef.svg" alt="shakilkathat92" height="30" width="40" /></a>
-<a href="https://www.leetcode.com/shakilkathat92" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/leet-code.svg" alt="shakilkathat92" height="30" width="40" /></a>
-</p>
+  <a href="https://www.linkedin.com/in/shakilkathat92/">
+    <img src="https://img.shields.io/badge/LinkedIn-blue?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn Badge"/>
+  </a>
+  <a href="https://www.instagram.com/__s_h_a_k_i_l__k_a_t_h_a_t__92/">
+    <img src="https://img.shields.io/badge/Instagram-red?style=for-the-badge&logo=instagram&logoColor=white" alt="Instagram Badge"/>
+  </a>
+  <a href="https://twitter.com/iamshakilkathat">
+    <img src="https://img.shields.io/badge/Twitter-blue?style=for-the-badge&logo=twitter&logoColor=white" alt="Twitter Badge"/>
+  </a>
 
 
 ---
